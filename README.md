@@ -18,41 +18,70 @@ I am building a developer portfolio around practical web projects, automation sc
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Portfolio Projects In Progress
+## Portfolio Projects
 
-### Osvita School Email Scraper
+### [Travel Map](https://github.com/ilontasck/travel-map)
 
-A Python automation script that collects school contact emails and converts the results into CSV format.
+Interactive Leaflet map for saving travel places in the browser.
+
+**Stack:** HTML, CSS, JavaScript, Leaflet, OpenStreetMap
+
+### [Online Shop Stripe Demo](https://github.com/ilontasck/online-shop-stripe-demo)
+
+Express store prototype with a safe Stripe Checkout test setup.
+
+**Stack:** Node.js, Express, Stripe, HTML, CSS, JavaScript
+
+### [Osvita School Email Scraper](https://github.com/ilontasck/osvita-school-email-scraper)
+
+Python automation script that collects school contact emails and exports CSV files.
 
 **Stack:** Python, Selenium, CSV
 
-**Next steps:** clean configuration, add requirements, document usage, and publish as a standalone repository.
+### [Fashion Style Picker](https://github.com/ilontasck/fashion-style-picker)
 
-### Online Shop Prototype
+Flask app that gives a simple outfit and color palette recommendation.
 
-A simple store page with a Node.js backend prototype for Stripe Checkout integration.
+**Stack:** Python, Flask, HTML, CSS
 
-**Stack:** HTML, CSS, JavaScript, Node.js, Express, Stripe API
+### [Flask Todo App](https://github.com/ilontasck/flask-todo-app)
 
-**Next steps:** replace placeholder keys with environment variables, improve product data structure, add setup instructions, and prepare a demo.
+Todo list app with JSON persistence and a responsive interface.
 
-### Fashion Style Picker
+**Stack:** Python, Flask, HTML, CSS
 
-A small form-based web prototype for collecting style inputs such as height, weight, eye color, hair color, and skin tone.
+### [Django Mini Notes](https://github.com/ilontasck/django-mini-notes)
 
-**Stack:** HTML, CSS, Flask-style templates
+Django notes app with SQLite persistence and sanitized settings.
 
-**Next steps:** add backend logic, generate style recommendations, and polish the interface.
+**Stack:** Python, Django, SQLite
+
+### [English Vocabulary Trainer](https://github.com/ilontasck/english-vocabulary-trainer)
+
+Terminal quiz for practicing English words with a JSON word bank.
+
+**Stack:** Python, CLI, JSON
+
+### [Developer Survey Form](https://github.com/ilontasck/survey-form)
+
+Polished static survey form with local browser submissions.
+
+**Stack:** HTML, CSS, JavaScript
+
+### [Python SQLite People Demo](https://github.com/ilontasck/python-sqlite-people-demo)
+
+Small learning project that demonstrates basic SQLite operations.
+
+**Stack:** Python, SQLite
 
 ## What I Am Working Toward
 
-I want this profile to become a clean portfolio with several finished repositories, each containing:
+I am continuing to improve these repositories with:
 
-- a clear project description
-- installation and usage instructions
-- screenshots or demo links
-- readable code structure
-- meaningful commits
+- screenshots and short demo videos
+- cleaner UI polish
+- more tests for Python apps
+- deployment links for web projects
 
 ## GitHub Stats
 
@@ -67,4 +96,4 @@ I want this profile to become a clean portfolio with several finished repositori
 
 ---
 
-This profile is being actively organized into a full portfolio.
+This profile is actively growing into a full developer portfolio.
