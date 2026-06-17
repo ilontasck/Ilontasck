@@ -26,6 +26,8 @@ Interactive Leaflet map for saving travel places in the browser.
 
 **Stack:** HTML, CSS, JavaScript, Leaflet, OpenStreetMap
 
+**Demo:** [ilontasck.github.io/travel-map](https://ilontasck.github.io/travel-map/)
+
 ### [Online Shop Stripe Demo](https://github.com/ilontasck/online-shop-stripe-demo)
 
 Express store prototype with a safe Stripe Checkout test setup.
@@ -67,6 +69,8 @@ Terminal quiz for practicing English words with a JSON word bank.
 Polished static survey form with local browser submissions.
 
 **Stack:** HTML, CSS, JavaScript
+
+**Demo:** [ilontasck.github.io/survey-form](https://ilontasck.github.io/survey-form/)
 
 ### [Python SQLite People Demo](https://github.com/ilontasck/python-sqlite-people-demo)
 
